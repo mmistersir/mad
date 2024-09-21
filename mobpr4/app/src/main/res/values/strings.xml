@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="button_check_cat_text">Watch a cat</string>
+    <string name="button_check_mouse_text">Watch a mouse</string>
+
+    <string name="first_fragment_list_view_item_text">Текст элемента ListView</string>
+
+    <string name="second_fragment_recycler_view_item_text">Текст элемента RecyclerView</string>
+    <string name="second_fragment_text">SecondFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
